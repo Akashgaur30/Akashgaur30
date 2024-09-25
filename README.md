@@ -5,7 +5,6 @@
 
 
 ## 🙋‍♂️ About Me
-- 👀 I’m interested in **Arch linux**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
